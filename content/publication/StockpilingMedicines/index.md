@@ -41,9 +41,9 @@ url_source: ""
 url_video: ""
 title: "Stockpiling Medicines at the Onset of the COVID-19 Pandemic: An Empirical Analysis of National Prescription Drug Sales and Prices"
 doi: ""
-featured: false
+# featured: false
 tags: []
-projects: []
+# projects: []
 image:
   caption: ""
   focal_point: ""
