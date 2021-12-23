@@ -28,7 +28,7 @@ publication_types:
   - "3"
 authors:
   - Minje Park
-  - [Anita L. Tucker](https://www.bu.edu/questrom/profile/anita-tucker/)
+  - Anita L. Tucker
   - Erin Fox
   - Rena M. Conti
 author_notes: []
