@@ -28,19 +28,18 @@ publication_types:
   - "3"
 authors:
   - Minje Park
-  - Anita Tucker
-  - Erin Fox
-  - Rena Conti
+  - [Anita L. Tucker](https://www.bu.edu/questrom/profile/anita-tucker/)
+  - [Erin Fox](https://pharmacyservices.utah.edu/residency/drug-info-staff)
+  - [Rena M. Conti](https://www.bu.edu/questrom/profile/rena-conti/)
 author_notes: []
-publication: Working paper
+publication: Under Review
 summary: ""
 url_dataset: ""
 url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-title: "Stockpiling Medicines at the Onset of the COVID-19 Pandemic: An
-  Empirical Analysis of National Prescription Drug Sales and Prices"
+title: "Stockpiling Medicines at the Onset of the COVID-19 Pandemic: An Empirical Analysis of National Prescription Drug Sales and Prices"
 doi: ""
 featured: false
 tags: []
