@@ -29,7 +29,7 @@ publication_types:
 authors:
   - Minje Park
   - Anita L. Tucker
-  - Erin Foxhttps
+  - Erin Fox
   - Rena M. Conti
 author_notes: []
 publication: Under Review
