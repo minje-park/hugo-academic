@@ -28,9 +28,9 @@ publication_types:
   - "3"
 authors:
   - Minje Park
-  - [Anita L. Tucker](https://www.bu.edu/questrom/profile/anita-tucker/)
-  - [Erin Fox](https://pharmacyservices.utah.edu/residency/drug-info-staff)
-  - [Rena M. Conti](https://www.bu.edu/questrom/profile/rena-conti/)
+  - Anita L. Tucker
+  - Erin Foxhttps
+  - Rena M. Conti
 author_notes: []
 publication: Under Review
 summary: ""
