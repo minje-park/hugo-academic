@@ -27,8 +27,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Supply Chain Disruptions
+    tag: Drug Shortages, Supply Chain Disruptions
   - name: Other
     tag: Demo
 
