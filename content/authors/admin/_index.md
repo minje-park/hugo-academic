@@ -6,7 +6,7 @@ title: Minje Park
 superuser: true
 
 # Role/position/tagline
-#role: 
+# role: 
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: https://www.bu.edu/questrom
 
 # Short bio (displayed in user profile at end of posts)
-#bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
@@ -42,9 +42,9 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
- - icon: envelope
-  icon_pack: fas
-  link: "mailto:parkmj@bu.edu"
+# - icon: envelope
+#   icon_pack: fas
+#   link: "mailto:parkmj@bu.edu"
 # - icon: twitter
 #  icon_pack: fab
 # link: https://twitter.com/GeorgeCushen
