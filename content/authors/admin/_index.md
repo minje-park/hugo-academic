@@ -75,4 +75,4 @@ I am a 4th-year Ph.D. student in Operations and Technology Management at Questro
 
 My primary research interests are in the supply chain disruptions and their impact on buyers’ behavior and service quality. Specifically, I study the effects of pharmaceutical supply chain disruptions on (i) stockpiling behaviors, and (ii) quality of medication administration services.
 
-{{< icon name="download" pack="fas" >}} Download my [CV](/static/uploads/Minje_CV_12.17.2021.pdf).
+{{< icon name="download" pack="fas" >}} Download my [CV](https://drive.google.com/file/d/1UsrHshZV9BDgyhE8VwY7R2mNOQ4bdlZV/view?usp=sharing).
