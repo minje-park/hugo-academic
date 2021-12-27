@@ -42,9 +42,9 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-# - icon: envelope
-#   icon_pack: fas
-#   link: "mailto:parkmj@bu.edu"
+ - icon: envelope
+   icon_pack: fas
+   link: "mailto:parkmj@bu.edu"
 # - icon: twitter
 #  icon_pack: fab
 # link: https://twitter.com/GeorgeCushen
@@ -58,8 +58,8 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/minje-park-a41331159/
 # - icon: cv
-#  icon_pack: ai
-#  link: uploads/resume.pdf
+#   icon_pack: ai
+#   link: uploads/resume.pdf
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
