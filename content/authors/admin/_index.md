@@ -45,18 +45,18 @@ social:
 # - icon: envelope
 #  icon_pack: fas
 #  link: mailto:parkmj@bu.edu
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/minje-park-a41331159/
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/minje-park-a41331159/
 # - icon: twitter
 #  icon_pack: fab
 # link: https://twitter.com/GeorgeCushen
 # - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
 #  icon_pack: ai
 #  link: "https://scholar.google.com/citations?user=ayPN3q4AAAAJ&hl=en&oi=ao"
- - icon: github
-  icon_pack: fab
-  link: https://github.com/minje-park
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/minje-park
 
 # - icon: cv
 #   icon_pack: ai
