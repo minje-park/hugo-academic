@@ -1,5 +1,5 @@
 ---
-title: Impact of Pharmaceutical Supply Chain Disruptions on Medication Safety: Evidence from a Natural Experiment
+title: Impact of Pharmaceutical Supply Chain Disruptions on Medication Safety - Evidence from a Natural Experiment
 summary: with Anita Tucker and Rena Conti, Manuscript in preparation
 tags:
 - Drug Shortages
