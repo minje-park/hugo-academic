@@ -53,7 +53,7 @@ social:
 # link: https://twitter.com/GeorgeCushen
 # - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
 #  icon_pack: ai
-#  link: https://scholar.google.com/citations?user=ayPN3q4AAAAJ&hl=en&oi=ao
+#  link: "https://scholar.google.com/citations?user=ayPN3q4AAAAJ&hl=en&oi=ao"
  - icon: github
   icon_pack: fab
   link: https://github.com/minje-park
