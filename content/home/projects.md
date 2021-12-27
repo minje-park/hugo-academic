@@ -29,8 +29,14 @@ content:
     tag: '*'
   - name: Supply Chain Disruptions
     tag: Drug Shortages, Supply Chain Disruptions
-  - name: Other
-    tag: Demo
+  - name: Stockpiling
+    tag: Stockpiling
+  - name: Drug Shortages
+    tag: Drug Shortages
+  - name: COVID-19
+    tag: COVID-19
+  # - name: Other
+  #  tag: Demo
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
