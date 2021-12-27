@@ -44,7 +44,7 @@ interests:
 social:
  - icon: envelope
    icon_pack: fas
-   link: "mailto:parkmj@bu.edu"
+   link: mailto:parkmj@bu.edu
 # - icon: twitter
 #  icon_pack: fab
 # link: https://twitter.com/GeorgeCushen
