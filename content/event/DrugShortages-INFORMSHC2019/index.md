@@ -4,7 +4,7 @@ title: Impact of Pharmaceutical Supply Chain Disruptions on Medication Safety - 
 event: INFORMS Healthcare 2019 
 event_url: http://meetings.informs.org/wordpress/healthcare2019/
 
-location: MIT Sloan School of Management & Massachusetts General Hospital
+location: INFORMS Healthcare 2019, MIT Sloan School of Management
 # address:
 #  street: 450 Serra Mall
 #  city: Stanford
