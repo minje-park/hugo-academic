@@ -4,7 +4,7 @@ title: Impact of Pharmaceutical Supply Chain Disruptions on Medication Safety - 
 event: INFORMS2021
 event_url: http://meetings.informs.org/wordpress/anaheim2021/
 
-location: Anaheim, CA
+location: INFORMS 2021, Anaheim, CA
 # address:
 #  street: 450 Serra Mall
 #  city: Stanford
