@@ -1,5 +1,5 @@
 ---
-title: Impact of Pharmaceutical Supply Chain Disruptions on Medication Safety: Evidence from a Natural Experiment
+title: Impact of Pharmaceutical Supply Chain Disruptions on Medication Safety - Evidence from a Natural Experiment
 
 event: INFORMS2021
 event_url: http://meetings.informs.org/wordpress/anaheim2021/
@@ -18,7 +18,7 @@ abstract: "We investigate the impact of pharmaceutical supply chain disruptions 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2021-10-24T14:45:00Z"
-date_end: "2030-06-01T16:15:00Z"
+date_end: "2021-10-24T16:15:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
