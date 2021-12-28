@@ -4,7 +4,7 @@ title: Impact of Pharmaceutical Supply Chain Disruptions on Medication Safety - 
 event: INFORMS2020
 event_url: http://meetings.informs.org/wordpress/annual2020/
 
-location: Virtual
+location: INFORMS 2020, Virtual
 # address:
 #  street: 450 Serra Mall
 #  city: Stanford
