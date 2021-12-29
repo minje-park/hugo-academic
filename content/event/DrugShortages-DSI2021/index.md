@@ -1,5 +1,5 @@
 ---
-title: Impact of Pharmaceutical Supply Chain Disruptions on Medication Safety - Evidence from a Natural Experiment
+title: Impact of Pharmaceutical Supply Chain Disruptions on Medication Safety
 
 event: DSI 2021
 event_url: https://decisionsciences.org/annual-conferences/national-dsi/
