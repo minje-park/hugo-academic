@@ -1,6 +1,5 @@
 ---
-title: Impact of Pharmaceutical Supply Chain Disruptions on Medication Safety - Evidence from a Natural Experiment
-
+title: Impact of Pharmaceutical Supply Chain Disruptions on Medication Safety
 event: INFORMS Healthcare 2019 
 event_url: http://meetings.informs.org/wordpress/healthcare2019/
 
