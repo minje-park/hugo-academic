@@ -70,4 +70,4 @@ highlight_name: true
 ---
 I am a 4th-year Ph.D. student in Operations and Technology Management at Questrom School of Business, where I am fortunate to be advised by Professor [Anita Tucker](https://www.bu.edu/questrom/profile/anita-tucker/), and work with Professor [Rena Conti](https://www.bu.edu/questrom/profile/rena-conti/).
 
-My primary research interests are in the supply chain disruptions and their impact on buyers’ behavior and service quality. Specifically, I study the effects of pharmaceutical supply chain disruptions on (i) stockpiling behaviors, and (ii) quality of medication administration services.
+My primary research interests are in supply chain disruptions and their impact on buyers’ behavior and service quality. Specifically, I study effects of pharmaceutical supply chain disruptions on (i) stockpiling behaviors, and (ii) quality of medication administration services.
