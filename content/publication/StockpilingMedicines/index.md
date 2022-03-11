@@ -32,7 +32,7 @@ authors:
   - Erin Fox
   - Rena M. Conti
 author_notes: []
-publication: Under Review
+publication: Major Revision at Management Science
 summary: ""
 url_dataset: ""
 url_project: ""
