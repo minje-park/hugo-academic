@@ -27,8 +27,7 @@ content:
     category: ''
     publication_type: ''
     author: ''
-    exclude_featured: true
-    
+    exclude_featured: true   
 design:
   # Choose a view for the listings:
   view: compact
