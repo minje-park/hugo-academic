@@ -31,7 +31,7 @@ authors:
   - Anita L. Tucker
   - Erin Fox
   - Rena M. Conti
-author_notes: [Finalist, 2022 POMS CHOM Best Paper Award]
+author_notes: []
 publication: Major Revision at Management Science
 summary: ""
 url_dataset: ""
