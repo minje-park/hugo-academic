@@ -89,7 +89,7 @@ features:
     content_dir: content
     branch: master
   avatar:
-    gravatar: parkmj@bu.edu
+    gravatar: true
     shape: circle
   comment:
     provider: ''
