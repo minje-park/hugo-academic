@@ -2,6 +2,10 @@
 title: "Stockpiling Medicines at the Onset of the COVID-19 Pandemic: An Empirical Analysis of National Prescription Drug Sales and Prices"
 authors:
 - admin
+- Anita L. Tucker
+- Erin R. Fox
+- Rena M. Conti
+
 date: "2020-12-01T00:00:00Z"
 doi: ""
 
@@ -32,12 +36,12 @@ featured: false
 #  url: http://example.org
 url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3988183
 url_code: ''
-url_dataset: '#'
-url_poster: '#'
+url_dataset: ''
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
