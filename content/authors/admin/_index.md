@@ -10,7 +10,7 @@ superuser: true
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Questrom School of Business, Boston University
+- name: Columbia Business School
   url: https://www.bu.edu/questrom
 
 # Short bio (displayed in user profile at end of posts)
@@ -18,9 +18,9 @@ organizations:
 
 # Interests to show in About widget
 interests:
+- Healthcare Operations
+- Healthcare & Pharmaceutical Supply Chains
 - Supply Chain Disruptions
-- Pharmaceutical Supply Chains
-- Behavioral Operations
 - Data Analytics
 - Causal Inference
 
@@ -69,6 +69,6 @@ email: parkmj@bu.edu
 highlight_name: true
 
 ---
-I am a 4th-year Ph.D. student in Operations and Technology Management at Questrom School of Business, where I am fortunate to be advised by Professor [Anita Tucker Carson](https://www.bu.edu/questrom/profile/anita-carson/), and work with Professor [Rena Conti](https://www.bu.edu/questrom/profile/rena-conti/).
+I am a Postdoctoral Research Scholar in the Decision, Risk, and Operations Division at Columbia Business School, working with Professor [Carri Chan](http://www.columbia.edu/~cc3179/).
 
-I study supply chain disruptions and their impact on buyers’ behaviors and service operations. Specifically, I study effects of pharmaceutical supply chain disruptions on (i) stockpiling behaviors, and (ii) quality of medication administration services.
+I earned a PhD from Questrom School of Business, Boston University, advised by Professor [Anita Tucker Carson](https://www.bu.edu/questrom/profile/anita-carson/). My dissertation studies pharmaceutical supply chain disruptions and their impact on buyers’ behaviors, medication errors, and manufacturers' market share.
