@@ -1,5 +1,6 @@
 ---
 title: "Linking Medication Errors to Supply Chain Disruptions: Evidence from Heparin Shortages Caused by Hurricane Maria"
+summary: with Anita Carson and Rena Conti (Under Review)
 tags:
 - Drug Shortages
 - Supply Chain Disruptions
