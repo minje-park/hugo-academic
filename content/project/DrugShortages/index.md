@@ -1,5 +1,5 @@
 ---
-title: Linking Medication Errors to Supply Chain Disruptions: Evidence from Heparin Shortages Caused by Hurricane Maria
+title: "Linking Medication Errors to Supply Chain Disruptions: Evidence from Heparin Shortages Caused by Hurricane Maria"
 tags:
 - Drug Shortages
 - Supply Chain Disruptions
