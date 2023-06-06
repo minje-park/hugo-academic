@@ -1,6 +1,5 @@
 ---
-title: Impact of Pharmaceutical Supply Chain Disruptions on Medication Safety - Evidence from a Natural Experiment
-summary: with Anita Tucker and Rena Conti, Manuscript in preparation
+title: Linking Medication Errors to Supply Chain Disruptions: Evidence from Heparin Shortages Caused by Hurricane Maria
 tags:
 - Drug Shortages
 - Supply Chain Disruptions
@@ -11,7 +10,7 @@ date: "2016-04-27T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-image:
+image: 
   caption: ""
   focal_point: Smart
 
