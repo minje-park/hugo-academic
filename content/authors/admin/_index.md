@@ -11,7 +11,7 @@ superuser: true
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Columbia Business School
-  url: https://www.bu.edu/questrom
+  url: https://home.gsb.columbia.edu/
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -44,7 +44,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:parkmj@bu.edu
+    link: mailto:minje.park@columbia.edu
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/minje-park-a41331159/
@@ -71,4 +71,4 @@ highlight_name: true
 ---
 I am a Postdoctoral Research Scholar in the Decision, Risk, and Operations Division at Columbia Business School, working with Professor [Carri Chan](http://www.columbia.edu/~cc3179/).
 
-I earned a PhD from Questrom School of Business, Boston University, advised by Professor [Anita Tucker Carson](https://www.bu.edu/questrom/profile/anita-carson/). My dissertation studies pharmaceutical supply chain disruptions and their impact on buyers’ behaviors, medication errors, and manufacturers' market share.
+I earned a PhD from Questrom School of Business, Boston University, advised by Professor [Anita Carson](https://www.bu.edu/questrom/profile/anita-carson/). My dissertation studies pharmaceutical supply chain disruptions and their impact on buyers’ behaviors, medication errors, and manufacturers' market share.
