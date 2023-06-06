@@ -17,12 +17,12 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-interests:
-- Healthcare Operations
-- Healthcare & Pharmaceutical Supply Chains
-- Supply Chain Disruptions
-- Data Analytics
-- Causal Inference
+# interests:
+# - Healthcare Operations
+# - Healthcare & Pharmaceutical Supply Chains
+# - Supply Chain Disruptions
+# - Data Analytics
+# - Causal Inference
 
 # Education to show in About widget
 # education:
