@@ -69,6 +69,6 @@ email: parkmj@bu.edu
 highlight_name: true
 
 ---
-I am a Postdoctoral Research Scholar in the Decision, Risk, and Operations Division at Columbia Business School, working with Professor [Carri Chan](http://www.columbia.edu/~cc3179/).
+I am a Postdoctoral Researcher in the Decision, Risk, and Operations Division at Columbia Business School, working with Professor [Carri Chan](http://www.columbia.edu/~cc3179/).
 
 I earned a PhD from Questrom School of Business, Boston University, advised by Professor [Anita Carson](https://www.bu.edu/questrom/profile/anita-carson/). My dissertation studies pharmaceutical supply chain disruptions and their impact on buyers’ behaviors, medication errors, and manufacturers' market share.
