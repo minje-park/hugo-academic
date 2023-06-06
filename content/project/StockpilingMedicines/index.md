@@ -13,7 +13,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3988183"
 
 image:
-  caption: ""
+  caption: "Sales difference: drugs related to COVID vs. not related to COVID"
   focal_point: Smart
 
 links:
