@@ -8,6 +8,7 @@ tags:
 - COVID-19
 - Healthcare Supply Chains
 - Difference-in-Differences
+- Working Paper
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
