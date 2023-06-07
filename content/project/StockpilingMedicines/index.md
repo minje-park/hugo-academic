@@ -6,6 +6,7 @@ tags:
 - Drug Shortages
 - Price
 - COVID-19
+- Healthcare Supply Chains
 - Difference-in-Differences
 date: "2016-04-27T00:00:00Z"
 
