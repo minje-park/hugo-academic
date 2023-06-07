@@ -12,6 +12,9 @@ weight: 20
 title: Research
 subtitle: ''
 
+sort_by: 'Date'
+sort_ascending: false
+
 content:
   # Page type to display. E.g. project.
   page_type: project
