@@ -36,13 +36,13 @@ content:
   - name: Healthcare Supply Chains
   - tag: Healthcare Supply Chains
 
-  filter_button:
-  - name: All
-    tag: '*'
-  - name: Working Paper
-    tag: Working Paper
-  - name: Work in Progress
-    tag: Work in Progress
+ # filter_button:
+ # - name: All
+ #   tag: '*'
+ # - name: Working Paper
+ #   tag: Working Paper
+ # - name: Work in Progress
+ #   tag: Work in Progress
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
