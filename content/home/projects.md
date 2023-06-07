@@ -33,6 +33,8 @@ content:
     tag: Stockpiling
   - name: Drug Shortages
     tag: Drug Shortages
+  - name: Healthcare Supply Chains
+  - tag: Healthcare Supply Chains
 #  - name: COVID-19
 #    tag: COVID-19
   # - name: Other
