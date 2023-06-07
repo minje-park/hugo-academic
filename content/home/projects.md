@@ -40,11 +40,6 @@ content:
   - name: Work in Progress
   - tag: Work in Progress
 
-
- # filter_button:
- # - name: All
- #   tag: '*'
- # 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
