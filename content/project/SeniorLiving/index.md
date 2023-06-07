@@ -1,11 +1,11 @@
 ---
 title: "Impact of Senior Living Communities on Healthcare Utilizations and Outcomes"
-summary: with Ann Bartel, Carri Chan, and Fanyin Zheng. *In preparation.*
+summary: with [Ann Bartel](https://www8.gsb.columbia.edu/cbs-directory/detail/apb2), [Carri Chan](https://www8.gsb.columbia.edu/cbs-directory/detail/cc3179), and [Fanyin Zheng](http://www.fanyinzheng.com/). *In preparation.*
 tags:
 - Demographic Disruptions
 - Senior Housing
 - Work in Progress
-date: "2023-01-04T00:00:00Z"
+date: "2023-02-04T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
