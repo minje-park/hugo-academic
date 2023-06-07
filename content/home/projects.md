@@ -33,8 +33,8 @@ content:
     tag: Stockpiling
   - name: Drug Shortages
     tag: Drug Shortages
-  - name: COVID-19
-    tag: COVID-19
+#  - name: COVID-19
+#    tag: COVID-19
   # - name: Other
   #  tag: Demo
 
