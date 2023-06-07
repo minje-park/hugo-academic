@@ -12,12 +12,12 @@ weight: 20
 title: Research
 subtitle: ''
 
-sort_by: 'Date'
-sort_ascending: true
-
 content:
   # Page type to display. E.g. project.
   page_type: project
+
+  sort_by: 'Date'
+  sort_ascending: true
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
@@ -30,13 +30,15 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Supply Chain Disruptions
+  - name: Supply Chain Disruption
     tag: Drug Shortages, Supply Chain Disruptions
+  - name: Demographic Disruption
+    tag: Demographic Disruptions
   - name: Stockpiling
     tag: Stockpiling
-  - name: Drug Shortages
+  - name: Drug Shortage
     tag: Drug Shortages
-  - name: Healthcare Supply Chains
+  - name: Healthcare Supply Chain
     tag: Healthcare Supply Chains
   - name: Working Paper
     tag: Working Paper
