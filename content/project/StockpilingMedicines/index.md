@@ -9,7 +9,7 @@ tags:
 - Healthcare Supply Chains
 - Difference-in-Differences
 - Working Paper
-date: "2016-04-27T00:00:00Z"
+date: "2023-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3988183"
