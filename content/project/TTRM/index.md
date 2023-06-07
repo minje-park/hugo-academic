@@ -4,6 +4,7 @@ summary: with Anita Carson and Rena Conti. *In preparation.*
 tags:
 - Supply Chain Disruptions
 - Drug Shortages
+- Healthcare Supply Chains
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
