@@ -1,6 +1,6 @@
 ---
 title: "Stockpiling at the Onset of the COVID-19 Pandemic: An Empirical Analysis of National Prescription Drug Sales and Prices"
-summary: with Anita Carson, Erin Fox, and Rena Conti (Under Minor Revision at Management Science)
+summary: with Anita Carson, Erin Fox, and Rena Conti. **Minor Revision at Management Science.**
 tags:
 - Stockpiling
 - Drug Shortages
