@@ -13,7 +13,7 @@ title: Research
 subtitle: ''
 
 sort_by: 'Date'
-sort_ascending: false
+sort_ascending: true
 
 content:
   # Page type to display. E.g. project.
