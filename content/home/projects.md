@@ -44,6 +44,8 @@ content:
     tag: Working Paper
   - name: Work in Progress
     tag: Work in Progress
+  - name: Others
+    tag: Others
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
