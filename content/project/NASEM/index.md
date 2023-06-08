@@ -10,9 +10,9 @@ date: "2023-01-04T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: "https://www.healthaffairs.org/content/forefront/building-resilience-into-us-prescription-drug-supply-chains"
 
-# image:
-#  caption: ""
-#  focal_point: Smart
+ image:
+  caption: ""
+  focal_point: Smart
 
 links:
 # - icon: twitter
