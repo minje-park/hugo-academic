@@ -4,7 +4,7 @@ title: Linking Medication Errors to Supply Chain Disruptions
 event: MSOM Healthcare SIG 
 event_url: https://www.mcgill.ca/msom2023/program-0/sig-program
 
-location: MSOM 2023, Montreal, Canada
+location: MSOM Healthcare SIG 2023, Montreal, Canada
 # address:
 #  street: 450 Serra Mall
 #  city: Stanford
