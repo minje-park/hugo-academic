@@ -34,7 +34,7 @@ featured: false
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
 #  focal_point: Right
 
-links:
+links: https://www.mcgill.ca/msom2023/program-0/sig-program
 # - icon: twitter
 #  icon_pack: fab
 #  name: Follow
