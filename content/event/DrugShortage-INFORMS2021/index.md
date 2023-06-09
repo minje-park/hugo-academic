@@ -22,7 +22,7 @@ date: "2023-06-24T14:30:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-# publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2017-01-01T00:00:00Z"
 
 authors: []
 tags: []
@@ -34,7 +34,7 @@ featured: false
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
 #  focal_point: Right
 
-links:
+# links:
 # - icon: twitter
 #  icon_pack: fab
 #  name: Follow
