@@ -1,5 +1,5 @@
 ---
-title: Linking Medication Errors to Supply Chain Disruptions
+title: **Linking Medication Errors to Supply Chain Disruptions**
 
 event: MSOM Healthcare SIG 
 event_url: https://www.mcgill.ca/msom2023/program-0/sig-program
