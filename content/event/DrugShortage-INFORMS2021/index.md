@@ -1,10 +1,10 @@
 ---
-title: Impact of Pharmaceutical Supply Chain Disruptions on Medication Safety
+title: Linking Medication Errors to Supply Chain Disruptions
 
-event: INFORMS2021
-event_url: http://meetings.informs.org/wordpress/anaheim2021/
+event: MSOM Healthcare SIG 
+event_url: https://www.mcgill.ca/msom2023/program-0/sig-program
 
-location: INFORMS 2021, Anaheim, CA
+location: MSOM 2023, Montreal, Canada
 # address:
 #  street: 450 Serra Mall
 #  city: Stanford
@@ -12,13 +12,13 @@ location: INFORMS 2021, Anaheim, CA
 #  postcode: '94305'
 #  country: United States
 
-summary: INFORMS, 2021
-abstract: "We investigate the impact of pharmaceutical supply chain disruptions on medication safety by studying a drug shortage case caused by Hurricane Maria in 2017. By applying the synthetic control method (Abadie et al. 2003, 2010), we measure the increase in medication errors and adverse drug events after the supply disruption. With our results, we provide implications for safe substitution between drugs during the supply disruption period."
+summary: ''
+abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-10-24T14:45:00Z"
-date_end: "2021-10-24T16:15:00Z"
+date: "2023-06-24T14:30:00Z"
+# date_end: "2021-10-24T16:15:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
