@@ -1,6 +1,6 @@
 ---
 title: "Time to Recover Market Share: Lasting Effects of Supply Chain Disruptions on Firm Performance"
-summary: with Anita Carson and Rena Conti. *In preparation.*
+summary: with [Anita Carson](https://www.bu.edu/questrom/profile/anita-carson/) and [Rena Conti](https://www.bu.edu/questrom/profile/rena-conti/). *In preparation.*
 tags:
 - Supply Chain Disruptions
 - Drug Shortages
