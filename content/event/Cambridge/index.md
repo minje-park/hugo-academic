@@ -4,7 +4,7 @@ title: Linking Medication Errors to Supply Chain Disruptions
 event: University of Cambridge Healthcare Ops Seminar 
 event_url: ''
 
-location: Virtual
+location: University of Cambridge Healthcare Ops Seminar, Virtual
 # address:
 #  street: 450 Serra Mall
 #  city: Stanford
