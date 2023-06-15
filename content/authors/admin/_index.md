@@ -10,7 +10,7 @@ superuser: true
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: **Columbia Business School**
+- name: Columbia Business School
   url: https://home.gsb.columbia.edu/
 
 # Short bio (displayed in user profile at end of posts)
