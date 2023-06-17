@@ -17,7 +17,7 @@ main:
     url: '#talks'
     weight: 30
   - name: Impact
-    url: '#posts'
+    url: /impact/
     weight: 40
     
 #  - name: Contact
