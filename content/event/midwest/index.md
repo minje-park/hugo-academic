@@ -3,7 +3,7 @@ title: Stockpiling at the Onset of the COVID-19 Pandemic
 event: Midwest Healthcare Workshop
 event_url: https://heartanalytics.github.io/workshops/
 
-location: i-Hotel, Champaign, IL
+location: Midwest Healthcare Workshop, Champaign, IL
 # address:
 #  street: 450 Serra Mall
 #  city: Stanford
