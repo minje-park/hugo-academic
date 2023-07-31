@@ -75,3 +75,5 @@ My research investigates how organizations can be more resilient when facing sup
 Recently, I am also interested in studying the implications of demographic disruptions, such as the aging population, and technological disruptions, like AI disease prediction.
 
 I earned a PhD from Questrom School of Business, Boston University, advised by Professor [**Anita Carson**](https://www.bu.edu/questrom/profile/anita-carson/). My [dissertation](https://www.proquest.com/docview/2709946391?pq-origsite=gscholar&fromopenview=true) studies pharmaceutical supply chain disruptions and their impact on buyers’ behaviors, medication errors, and manufacturers' market share.
+
+**I am on the 2023-2024 job market.**
