@@ -1,6 +1,6 @@
 ---
 title: "Linking Medication Errors to Supply Chain Disruptions: Evidence from Heparin Shortages Caused by Hurricane Maria"
-summary: with [Anita Carson](https://www.bu.edu/questrom/profile/anita-carson/) and [Rena Conti](https://www.bu.edu/questrom/profile/rena-conti/). **Under Review.**
+summary: with [Anita Carson](https://www.bu.edu/questrom/profile/anita-carson/) and [Rena Conti](https://www.bu.edu/questrom/profile/rena-conti/). **Major revision at Manufacturing & Service Operations Management.**
 tags:
 - Drug Shortages
 - Supply Chain Disruptions
