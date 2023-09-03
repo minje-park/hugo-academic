@@ -77,3 +77,7 @@ Recently, I am also interested in studying the implications of demographic disru
 I earned a PhD from Questrom School of Business, Boston University, advised by Professor [**Anita Carson**](https://www.bu.edu/questrom/profile/anita-carson/). My [dissertation](https://www.proquest.com/docview/2709946391?pq-origsite=gscholar&fromopenview=true) studies pharmaceutical supply chain disruptions and their impact on buyers’ behaviors, medication errors, and manufacturers' market share.
 
 **I am on the 2023-2024 job market.**
+ 
+#### INFORMS TALKS
+* **TE22 (October 17, Tuesday, 4:00-5:15 PM, CC-North 129A)**: Time to Recover Market Share (Job Market Paper)
+* **TA25 (October 17, Tuesday, 8:00-9:15 AM, CC-North 131A)**: The Effects of Senior Living Communities on Healthcare Utilization and Outcomes
