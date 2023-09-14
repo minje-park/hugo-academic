@@ -1,5 +1,5 @@
 ---
-title: "Time to Recover Market Share: Lasting Effects of Supply Chain Disruptions on Firm Performance"
+title: "Time to Recover Market Share: A New Metric of Supply Chain Resilience"
 summary: with [Anita Carson](https://www.bu.edu/questrom/profile/anita-carson/) and [Rena Conti](https://www.bu.edu/questrom/profile/rena-conti/). *In preparation.*
 tags:
 - Supply Chain Disruptions
