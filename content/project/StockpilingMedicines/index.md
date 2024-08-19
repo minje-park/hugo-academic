@@ -1,6 +1,6 @@
 ---
 title: "Stockpiling at the Onset of the COVID-19 Pandemic: An Empirical Analysis of National Prescription Drug Sales and Prices"
-summary: with [Anita Carson](https://www.bu.edu/questrom/profile/anita-carson/), [Erin Fox](https://pharmacyservices.utah.edu/residency/drug-info-staff), and [Rena Conti](https://www.bu.edu/questrom/profile/rena-conti/). **Accepted at Management Science.**
+summary: with [Anita Carson](https://www.bu.edu/questrom/profile/anita-carson/), [Erin Fox](https://pharmacyservices.utah.edu/residency/drug-info-staff), and [Rena Conti](https://www.bu.edu/questrom/profile/rena-conti/). forthcoming, **Management Science.**
 tags:
 - Stockpiling
 - Drug Shortages
@@ -12,7 +12,7 @@ tags:
 date: "2023-05-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3988183"
+external_link: "https://pubsonline.informs.org/doi/full/10.1287/mnsc.2021.04150"
 
 image:
   caption: "Sales difference: drugs related to COVID vs. not related to COVID"
