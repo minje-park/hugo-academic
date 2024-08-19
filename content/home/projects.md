@@ -27,25 +27,25 @@ content:
   # To show all items, set `tag` to "*".
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
-  filter_button:
-  - name: All
-    tag: '*'
-  - name: Supply Chain Disruption
-    tag: Drug Shortages, Supply Chain Disruptions
-  - name: Demographic Disruption
-    tag: Demographic Disruptions
-  - name: Stockpiling
-    tag: Stockpiling
-  - name: Drug Shortage
-    tag: Drug Shortages
-  - name: Healthcare Supply Chain
-    tag: Healthcare Supply Chains
-  - name: Working Paper
-    tag: Working Paper
-  - name: Work in Progress
-    tag: Work in Progress
-  - name: Others
-    tag: Others
+  # filter_button:
+  # - name: All
+  #  tag: '*'
+  # - name: Supply Chain Disruption
+  #  tag: Drug Shortages, Supply Chain Disruptions
+  # - name: Demographic Disruption
+  #  tag: Demographic Disruptions
+  # - name: Stockpiling
+  #  tag: Stockpiling
+  # - name: Drug Shortage
+  #  tag: Drug Shortages
+  # - name: Healthcare Supply Chain
+  #  tag: Healthcare Supply Chains
+  # - name: Working Paper
+  #  tag: Working Paper
+  # - name: Work in Progress
+  #  tag: Work in Progress
+  # - name: Others
+  #  tag: Others
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -56,7 +56,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 5
+  view: 2
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
