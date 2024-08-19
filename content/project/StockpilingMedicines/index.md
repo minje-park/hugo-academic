@@ -14,9 +14,9 @@ date: "2023-05-01T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: "https://pubsonline.informs.org/doi/full/10.1287/mnsc.2021.04150"
 
-image:
-  caption: "Sales difference: drugs related to COVID vs. not related to COVID"
-  focal_point: Smart
+# image:
+# caption: "Sales difference: drugs related to COVID vs. not related to COVID"
+#  focal_point: Smart
 
 links:
 # - icon: twitter
