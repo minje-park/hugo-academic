@@ -10,8 +10,8 @@ superuser: true
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Columbia Business School
-  url: https://home.gsb.columbia.edu/
+- name: HKU Business School
+  url: https://www.hkubs.hku.hk/
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -44,7 +44,7 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:minje.park@columbia.edu
+    link: mailto:parkmj@hku.hk
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/minje-park-a41331159/
@@ -69,15 +69,5 @@ email: parkmj@bu.edu
 highlight_name: true
 
 ---
-I am a Postdoctoral Researcher in the Decision, Risk, and Operations Division at Columbia Business School, working with Professor [**Carri Chan**](http://www.columbia.edu/~cc3179/).
-
-My research investigates how organizations can be more resilient when facing supply chain disruptions, with a particular focus on healthcare supply chains.
-Recently, I am also interested in studying the implications of demographic disruptions, such as the aging population, and technological disruptions, like AI disease prediction.
-
-I earned a PhD from Questrom School of Business, Boston University, advised by Professor [**Anita Carson**](https://www.bu.edu/questrom/profile/anita-carson/). My [dissertation](https://www.proquest.com/docview/2709946391?pq-origsite=gscholar&fromopenview=true) studies pharmaceutical supply chain disruptions and their impact on buyers’ behaviors, medication errors, and manufacturers' market share.
-
-**I am on the 2023-2024 job market.**
- 
-### INFORMS TALKS
-* **TE22 (October 17, 4:00-5:15 PM, CC-North 129A)**: Time to Recover Market Share (Job Market Paper)
-* **TA25 (October 17, 8:00-9:15 AM, CC-North 131A)**: The Effects of Senior Living Communities on Healthcare Utilization and Outcomes
+I am an Assistant Professor at the University of Hong Kong (HKU) Business School. My research investigates how organizations can be more resilient when facing disruptions in their environment, with a particular focus on the healthcare industry. 
+Before joining HKU, I was a postdoctoral researcher at Columbia Business School, working with [**Carri Chan**](http://www.columbia.edu/~cc3179/), and I earned a PhD from Questrom School of Business, Boston University, advised by [**Anita Carson**](https://www.bu.edu/questrom/profiles/anita-carson/).
