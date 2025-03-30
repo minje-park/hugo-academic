@@ -1,6 +1,6 @@
 ---
 # Page title
-title: Research
+title: Papers
 
 ---
 Test.
