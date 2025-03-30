@@ -13,7 +13,7 @@ subtitle = ""
 
 content:
   # Page type to display. E.g. project.
-  page_type: research
+  page_type: papers
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
