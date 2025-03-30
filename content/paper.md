@@ -11,6 +11,10 @@ title: "Research"
 
 2. [First, Do No Harm: Do Staffing Shortages Drive Abuse and Malfeasance in US Nursing Homes?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5028515). with Jong Myeong Lim, and Ken Moon. Under review
 
+3. Time to Recover Market Share: A New Metric of Supply Chain Resilience. with Anita Carson and Rena Conti.
+   - Selected to present at Empirical Workshop in Operations Management 2023 (Wharton School)
+   - Selected to present at MSOM Supply Chain Management SIG 2024
+
 ## Peer-reviewed Journal Papers
 
 1. [Stockpiling at the Onset of the COVID-19 Pandemic: An Empirical Analysis of National Prescription Drug Sales and Prices](https://pubsonline.informs.org/doi/full/10.1287/mnsc.2021.04150). with Anita Carson, Erin Fox, and Rena Conti._Management Science_, 2024.
