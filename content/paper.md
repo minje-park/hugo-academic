@@ -3,14 +3,6 @@ permalink: /paper/
 title: "Research"
 ---
 
-## Publications
-
-1. [Stockpiling at the Onset of the COVID-19 Pandemic: An Empirical Analysis of National Prescription Drug Sales and Prices](https://pubsonline.informs.org/doi/full/10.1287/mnsc.2021.04150). with Anita Carson, Erin Fox, and Rena Conti._Management Science_, 70(10), 6483-6501.
-   - Finalist, 2022 POMS College of Healthcare Operations Management Best Paper Award
-
-2. [Linking Medication Errors to Drug Shortages: Evidence from Heparin Supply Chain Disruption Caused by Hurricane Maria](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4472407). with Anita Carson and Rena Conti. _Manufacturing & Service Operations Management_, Forthcoming.
-   - Selected to present at MSOM Healthcare SIG 2023
-
 ## Working Papers
 
 1. [Machine Learning-Guided Cancer Screening: The Benefits of Proactive Care](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4959547). with Carri Chan, Keith Boell, Elliot Mitchell, Abdul Tariq, and David Vawdrey. Major revision at _Manufacturing & Service Operations Management_.
@@ -18,6 +10,14 @@ title: "Research"
    - Selected to present at the Durham Early Career Scholars Workshop 2025
 
 2. [First, Do No Harm: Do Staffing Shortages Drive Abuse and Malfeasance in US Nursing Homes?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5028515). with Jong Myeong Lim, and Ken Moon. Under review
+
+## Peer-reviewed Journal Papers
+
+1. [Stockpiling at the Onset of the COVID-19 Pandemic: An Empirical Analysis of National Prescription Drug Sales and Prices](https://pubsonline.informs.org/doi/full/10.1287/mnsc.2021.04150). with Anita Carson, Erin Fox, and Rena Conti._Management Science_, 2024.
+   - Finalist, 2022 POMS College of Healthcare Operations Management Best Paper Award
+
+2. [Linking Medication Errors to Drug Shortages: Evidence from Heparin Supply Chain Disruption Caused by Hurricane Maria](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4472407). with Anita Carson and Rena Conti. _Manufacturing & Service Operations Management_, Forthcoming.
+   - Selected to present at MSOM Healthcare SIG 2023
 
 ## Research in Progress
 
