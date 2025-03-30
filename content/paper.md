@@ -9,12 +9,12 @@ title: "Research"
    - Finalist, 2022 POMS College of Healthcare Operations Management Best Paper Award
 
 2. [Linking Medication Errors to Drug Shortages: Evidence from Heparin Supply Chain Disruption Caused by Hurricane Maria](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4472407). with Anita Carson and Rena Conti, _Manufacturing \& Service Operations Management_, Forthcoming
-  - Selected to present at MSOM Healthcare SIG 2023
+   - Selected to present at MSOM Healthcare SIG 2023
 
 ## Working Papers
 
 1. [Machine Learning-Guided Cancer Screening: The Benefits of Proactive Care](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4959547). with Carri Chan, Keith Boell, Elliot Mitchell, Abdul Tariq, and David Vawdrey.
-- Major revision at \textit{Manufacturing \& Service Operations Management
+- Major revision at _Manufacturing & Service Operations Management_
    - Selected to present at the 2nd Workshop on Empirical Operations Management (HKU Business School)
    - Selected to present at the Durham Early Career Scholars Workshop 2025
 
