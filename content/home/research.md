@@ -9,9 +9,11 @@ active = true  # Activate this widget? true/false
 weight = 11  # Order that this section will appear.
 
 title = "Research"
-subtitle = "Publications"
+subtitle = ""
 
-Test.
+content:
+  # Page type to display. E.g. project.
+  page_type: research
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
