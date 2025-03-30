@@ -11,6 +11,8 @@ weight = 11  # Order that this section will appear.
 title = "Research"
 subtitle = "Publications"
 
+Test.
+
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
@@ -26,7 +28,7 @@ subtitle = "Publications"
   
   # Background gradient.
   # gradient_start = "DarkGreen"
-  # gradient_end = "ForestGreen"
+  # gradient_end = "ForestGreen"   
   
   # Background image.
   # image = "pylons.jpg"  # Name of image in `static/img/`.
