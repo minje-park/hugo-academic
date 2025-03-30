@@ -63,7 +63,7 @@ social:
 #    link: https://github.com/minje-park
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: parkmj@bu.edu
+email: parkmj@hku.hk
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
