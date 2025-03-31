@@ -1,6 +1,7 @@
 ---
 permalink: /paper/
 title: "Research"
+author_profile: true
 ---
 ## Working Papers
 
