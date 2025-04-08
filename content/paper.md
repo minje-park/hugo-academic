@@ -1,11 +1,7 @@
-+++
+---
 permalink: /paper/
-title =  "Research"
-
-[design.spacing]
-  # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "5px", "20px", "5px"]
-+++
+title: "Research"
+---
 ## Working Papers
 
 1. [Machine Learning-Guided Cancer Screening: The Benefits of Proactive Care](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4959547). with Carri Chan, Keith Boell, Elliot Mitchell, Abdul Tariq, and David Vawdrey. Major revision at _Manufacturing & Service Operations Management_.
