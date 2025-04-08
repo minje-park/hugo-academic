@@ -6,18 +6,13 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 11  # Order that this section will appear.
+weight = 12  # Order that this section will appear.
 
-title = "Papers"
-subtitle = ""
-
-content:
-  # Page type to display. E.g. project.
-  page_type: papers
+title = "Research"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -30,7 +25,7 @@ content:
   
   # Background gradient.
   # gradient_start = "DarkGreen"
-  # gradient_end = "ForestGreen"   
+  # gradient_end = "ForestGreen"
   
   # Background image.
   # image = "pylons.jpg"  # Name of image in `static/img/`.
@@ -52,3 +47,6 @@ content:
  
  # CSS class.
  css_class = ""
++++
+
+{{< readfromfile "/content/paper.dat" >}} 
