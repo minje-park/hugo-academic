@@ -50,7 +50,6 @@ title = "Research"
 +++
 
 ## **Working Papers**
-
 1. [Machine Learning-Guided Cancer Screening: The Benefits of Proactive Care](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4959547). with Carri Chan, Keith Boell, Elliot Mitchell, Abdul Tariq, and David Vawdrey. Major revision at _Manufacturing & Service Operations Management_.
    - Finalist, 2025 POMS College of Healthcare Operations Management Best Paper Award
    - Selected to present at the Durham Early Career Scholars Workshop 2025
@@ -69,7 +68,6 @@ title = "Research"
 ***
 
 ## **Peer-reviewed Journal Papers**
-
 1. [Stockpiling at the Onset of the COVID-19 Pandemic: An Empirical Analysis of National Prescription Drug Sales and Prices](https://pubsonline.informs.org/doi/full/10.1287/mnsc.2021.04150). with Anita Carson, Erin Fox, and Rena Conti._Management Science_, 2024.
    - Finalist, 2022 POMS College of Healthcare Operations Management Best Paper Award
 #
