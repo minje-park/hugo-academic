@@ -19,8 +19,3 @@ title: Welcome!
 # See https://wowchemy.com/docs/get-started/#introduce-yourself
 author: admin
 ---
-
-News
-[All news>>](/news)
-
-{{< readfromfile "/content/newslist.dat" 5 >}} 
