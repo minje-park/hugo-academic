@@ -71,3 +71,9 @@ highlight_name: true
 ---
 I am an Assistant Professor at [the University of Hong Kong (HKU) Business School](https://www.hkubs.hku.hk/). My research investigates how organizations can be more resilient when facing disruptions in their environment, with a particular focus on the healthcare industry. 
 Before joining HKU, I was a postdoctoral researcher at Columbia Business School, working with [Carri Chan](http://www.columbia.edu/~cc3179/). I earned a PhD from Questrom School of Business, Boston University, advised by [Anita Carson](https://www.bu.edu/questrom/profiles/anita-carson/).
+
+News
+[All news>>](/news)
+
+{{< readfromfile "/content/newslist.dat" 5 >}} 
+
