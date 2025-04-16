@@ -56,7 +56,7 @@ title = "Research"
    - Selected to present at the Durham Early Career Scholars Workshop 2025
    - Selected to present at the 2nd Workshop on Empirical Operations Management (HKU Business School)
     
-2. [First, Do No Harm: Do Staffing Shortages Drive Abuse and Malfeasance in US Nursing Homes?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5028515). with Jong Myeong Lim, and Ken Moon. Under review
+2. [First, Do No Harm: Do Staffing Shortages Drive Abuse and Malfeasance in US Nursing Homes?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5028515) with Jong Myeong Lim, and Ken Moon. Major revision at _Manufacturing & Service Operations Management_.
    
 4. Time to Recover Market Share: A New Metric of Supply Chain Resilience. with Anita Carson and Rena Conti.
    - Selected to present at Empirical Workshop in Operations Management 2023 (Wharton School)
