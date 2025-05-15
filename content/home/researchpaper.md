@@ -51,12 +51,12 @@ title = "Research"
 
 ## **Working Papers**
 1. [Machine Learning-Guided Cancer Screening: The Benefits of Proactive Care](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4959547). with Carri Chan, Keith Boell, Elliot Mitchell, Abdul Tariq, and David Vawdrey. Major revision at _Manufacturing & Service Operations Management_.
+   - Winner, 2025 POMS College of Healthcare Operations Management Best Paper Award
    - Selected to present at MSOM Healthcare SIG 2025
-   - Finalist, 2025 POMS College of Healthcare Operations Management Best Paper Award
    - Selected to present at the Durham Early Career Scholars Workshop 2025
    - Selected to present at the 2nd Workshop on Empirical Operations Management (HKU Business School)
     
-2. [First, Do No Harm: Do Staffing Shortages Drive Abuse and Malfeasance in US Nursing Homes?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5028515) with Jong Myeong Lim, and Ken Moon. Major revision at _Manufacturing & Service Operations Management_.
+3. [First, Do No Harm: Do Staffing Shortages Drive Abuse and Malfeasance in US Nursing Homes?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5028515) with Jong Myeong Lim, and Ken Moon. Major revision at _Manufacturing & Service Operations Management_.
    
 4. Time to Recover Market Share: A New Metric of Supply Chain Resilience. with Anita Carson and Rena Conti.
    - Selected to present at Empirical Workshop in Operations Management 2023 (Wharton School)
