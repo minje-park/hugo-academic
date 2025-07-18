@@ -71,7 +71,7 @@ title = "Research"
 1. [Stockpiling at the Onset of the COVID-19 Pandemic: An Empirical Analysis of National Prescription Drug Sales and Prices](https://pubsonline.informs.org/doi/full/10.1287/mnsc.2021.04150). with Anita Carson, Erin Fox, and Rena Conti. _Management Science_, 2024.
    - Finalist, 2022 POMS College of Healthcare Operations Management Best Paper Award
      
-2. [Linking Medication Errors to Drug Shortages: Evidence from Heparin Supply Chain Disruption Caused by Hurricane Maria](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4472407). with Anita Carson and Rena Conti. _Manufacturing & Service Operations Management_, 2025.
+2. [Linking Medication Errors to Drug Shortages: Evidence from Heparin Supply Chain Disruption Caused by Hurricane Maria](https://pubsonline.informs.org/doi/full/10.1287/msom.2023.0297). with Anita Carson and Rena Conti. _Manufacturing & Service Operations Management_, 2025.
    - Selected to present at MSOM Healthcare SIG 2023
      
 ***
