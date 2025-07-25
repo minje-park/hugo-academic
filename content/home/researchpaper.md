@@ -73,7 +73,8 @@ title = "Research"
      
 2. [Linking Medication Errors to Drug Shortages: Evidence from Heparin Supply Chain Disruption Caused by Hurricane Maria](https://pubsonline.informs.org/doi/full/10.1287/msom.2023.0297). with Anita Carson and Rena Conti. _Manufacturing & Service Operations Management_, 2025.
    - Selected to present at MSOM Healthcare SIG 2023
-     
+   - Media: [U.S. Department of Health and Human Services](https://aspe.hhs.gov/sites/default/files/documents/e1956830e5587510cf92c70e53a2c8ad/supply-chain-research-plan.pdf)
+
 ***
 
 ## **Others**
