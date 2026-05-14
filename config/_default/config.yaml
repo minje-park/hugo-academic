@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Minje Park # Website name
-baseURL: 'https://minje-park.com/' # Website URL
+baseURL: 'https://minje-park.github.io/' # Website URL
 
 ############################
 ## LANGUAGE
