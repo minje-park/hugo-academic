@@ -18,22 +18,13 @@ h1 {
   font-weight: bold;
 }
 
-// for "star" sub-bullet points.
-ul li ul li,
-.markdown ul li ul li,
-.prose ul li ul li,
-section ul li ul li,
-article ul li ul li {
+// for "star" bullet points.
+ul li ul li {
   list-style-type: none;
   padding-left: 1.5em;
 }
 
-ul li ul li::before,
-.markdown ul li ul li::before,
-.prose ul li ul li::before,
-section ul li ul li::before,
-article ul li ul li::before {
+ul li ul li::marker {
   content: "✦ ";
-  margin-left: -1.5em;
   color: #B8860B;
 }
