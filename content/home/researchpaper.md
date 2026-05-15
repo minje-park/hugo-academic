@@ -63,7 +63,7 @@ title = "Research"
 ***
 
 ## **Peer-reviewed Journal Papers**
-1. [Machine Learning-Guided Cancer Screening: The Benefits of Proactive Care](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4959547). with Carri Chan, Keith Boell, Elliot Mitchell, Abdul Tariq, and David Vawdrey. Major revision at _Manufacturing & Service Operations Management_.
+1. [Cancer Screening Outreach Guided by Machine Learning: The Benefits of Proactive Care](https://pubsonline.informs.org/doi/full/10.1287/msom.2024.1353). with Carri Chan, Keith Boell, Elliot Mitchell, Abdul Tariq, and David Vawdrey. _Manufacturing & Service Operations Management_, 2026.
    - Honorary Mentions, 2025 MSOM Practice-Based Research Competition
    - Winner, 2025 POMS College of Healthcare Operations Management Best Paper Award
    - Selected to present at MSOM Healthcare SIG 2025
