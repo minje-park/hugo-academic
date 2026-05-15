@@ -17,3 +17,15 @@ h1 {
   font-size: 26px;
   font-weight: bold;
 }
+
+# for "star" sub-bullet points.
+ul li ul li {
+  list-style-type: none;
+  padding-left: 1.5em;
+}
+
+ul li ul li::before {
+  content: "✦ ";
+  margin-left: -1.5em;
+  color: #B8860B; /* dark gold - suits the award context */
+}
