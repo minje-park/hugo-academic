@@ -50,32 +50,32 @@ title = "Research"
 +++
 
 ## **Working Papers**
+1. [First, Do No Harm: Do Staffing Shortages Drive Abuse and Malfeasance in US Nursing Homes?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5028515) with Jong Myeong Lim, and Ken Moon. Major revision at _Manufacturing & Service Operations Management_.
+   - Selected to present at MSOM Healthcare SIG 2026
+   - Media: [MarketWatch](https://www.marketwatch.com/story/nursing-homes-may-start-sedating-your-elderly-parents-and-eventually-you-because-they-dont-have-enough-workers-e4c47a89?mod=brett-arends)
+   
+2. Time to Recover Market Share: A New Metric of Supply Chain Resilience. with Anita Carson and Rena Conti.
+   - Selected to present at Empirical Workshop in Operations Management 2023 (Wharton School)
+   - Selected to present at MSOM Supply Chain Management SIG 2024
+     
+3. The Impact of Senior Living Facilities on Medicare Spending. with Ann Bartel, Carri Chan, Patrick Wu, and Fanyin Zheng.  Major revision at _Management Science_. 
+
+***
+
+## **Peer-reviewed Journal Papers**
 1. [Machine Learning-Guided Cancer Screening: The Benefits of Proactive Care](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4959547). with Carri Chan, Keith Boell, Elliot Mitchell, Abdul Tariq, and David Vawdrey. Major revision at _Manufacturing & Service Operations Management_.
    - Honorary Mentions, 2025 MSOM Practice-Based Research Competition
    - Winner, 2025 POMS College of Healthcare Operations Management Best Paper Award
    - Selected to present at MSOM Healthcare SIG 2025
    - Selected to present at the Durham Early Career Scholars Workshop 2025
-    
-3. [First, Do No Harm: Do Staffing Shortages Drive Abuse and Malfeasance in US Nursing Homes?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5028515) with Jong Myeong Lim, and Ken Moon. Major revision at _Manufacturing & Service Operations Management_.
-   - Media: [MarketWatch](https://www.marketwatch.com/story/nursing-homes-may-start-sedating-your-elderly-parents-and-eventually-you-because-they-dont-have-enough-workers-e4c47a89?mod=brett-arends)
-   
-4. Time to Recover Market Share: A New Metric of Supply Chain Resilience. with Anita Carson and Rena Conti.
-   - Selected to present at Empirical Workshop in Operations Management 2023 (Wharton School)
-   - Selected to present at MSOM Supply Chain Management SIG 2024
-     
-5. The Impact of Senior Living Facilities on Medicare Spending. with Ann Bartel, Carri Chan, Patrick Wu, and Fanyin Zheng. Under review. 
 
-***
-
-## **Peer-reviewed Journal Papers**
-1. [Stockpiling at the Onset of the COVID-19 Pandemic: An Empirical Analysis of National Prescription Drug Sales and Prices](https://pubsonline.informs.org/doi/full/10.1287/mnsc.2021.04150). with Anita Carson, Erin Fox, and Rena Conti. _Management Science_, 2024.
-   - Finalist, 2022 POMS College of Healthcare Operations Management Best Paper Award
-     
 2. [Linking Medication Errors to Drug Shortages: Evidence from Heparin Supply Chain Disruption Caused by Hurricane Maria](https://pubsonline.informs.org/doi/full/10.1287/msom.2023.0297). with Anita Carson and Rena Conti. _Manufacturing & Service Operations Management_, 2025.
    - Selected to present at MSOM Healthcare SIG 2023
    - Media: [U.S. Department of Health and Human Services](https://aspe.hhs.gov/sites/default/files/documents/e1956830e5587510cf92c70e53a2c8ad/supply-chain-research-plan.pdf)
 
-***
+3. [Stockpiling at the Onset of the COVID-19 Pandemic: An Empirical Analysis of National Prescription Drug Sales and Prices](https://pubsonline.informs.org/doi/full/10.1287/mnsc.2021.04150). with Anita Carson, Erin Fox, and Rena Conti. _Management Science_, 2024.
+   - Finalist, 2022 POMS College of Healthcare Operations Management Best Paper Award
+
 
 ## **Others**
 1. [Building Resilience into US Prescription Drug Supply Chains](https://www.healthaffairs.org/content/forefront/building-resilience-into-us-prescription-drug-supply-chains). with Rena Conti, Marta Wosińska, Ozlem Ergun, Wallace Hopp, and Erin Fox. _Health Affairs Forefront_, 2023.
